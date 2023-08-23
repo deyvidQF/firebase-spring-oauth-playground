@@ -1,4 +1,4 @@
-package com.testing.firebasespringoauth;
+package com.testing.firebasespringoauth.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
